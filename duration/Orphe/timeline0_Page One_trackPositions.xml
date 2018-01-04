@@ -1,0 +1,38 @@
+<positions>
+    <element name="bangs">
+        <x>0</x>
+        <y>142</y>
+        <width>1280</width>
+        <height>40</height>
+    </element>
+    <element name="bangs_0">
+        <x>0</x>
+        <y>206</y>
+        <width>1280</width>
+        <height>40</height>
+    </element>
+    <element name="colors">
+        <x>0</x>
+        <y>206</y>
+        <width>1280</width>
+        <height>40</height>
+    </element>
+    <element name="curves">
+        <x>0</x>
+        <y>142</y>
+        <width>1280</width>
+        <height>118</height>
+    </element>
+    <element name="curves_0">
+        <x>0</x>
+        <y>348</y>
+        <width>1280</width>
+        <height>40</height>
+    </element>
+    <element name="step">
+        <x>0</x>
+        <y>284</y>
+        <width>1280</width>
+        <height>40</height>
+    </element>
+</positions>
